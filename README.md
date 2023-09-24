@@ -1,8 +1,8 @@
 ## welcome friend 👋
 
-### I've been making good progress on my full stack web development roadway.
-## Creativity 
-
+### I've been making good progress on my full stack web development roadway.<br>
+### Skills;Creativity, mindfulness, perseverance, 
+### Virtues: compassion, honor 
 <!--
 **Stellarsarah16/Stellarsarah16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
