@@ -1,8 +1,8 @@
-## welcome friend 👋
+# welcome friend 👋
 😄
-# 🔭 I've been making good progress on understanding programming patterns, and principles.
-### ⚡ Skills: Creativity, mindfulness, perseverance, 
-### 🤔 Virtues: compassion, honor 🌱
+### 🔭 I've been making good progress on understanding programming patterns, and principles.
+## ⚡ Skills: Creativity, mindfulness, perseverance, 
+## 🤔 Virtues: compassion, honor 🌱
 <!--
 **Stellarsarah16/Stellarsarah16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
