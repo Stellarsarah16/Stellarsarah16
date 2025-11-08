@@ -1,6 +1,7 @@
 # welcome friend 👋
 😄
-### 🔭 I've been making good progress on understanding programming patterns, and principles.
+### 🔭 diligently working on multiple solo projects, and a few collabs.  focused on procedural generation, machine learning, and data oriented design with adherence to SOLID principles.
+
 ##  Skills: 🌱Creativity, 🤔Mindfulness, ⚡perseverance, problem-solving 
 ##  Virtues: I strongly believe in honor, compassion, and loyalty 
 <!--
